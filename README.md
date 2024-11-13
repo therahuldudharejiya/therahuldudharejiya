@@ -1,5 +1,9 @@
 # Hi 👋, I'm Rahul Dudharejiya
 
+## A Full Stack Developer Based in Bengaluru, India
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therahuldudharejiya&label=Profile%20views&color=0e75b6&style=flat" alt="therahuldudharejiya" /> </p>
+
 <!--
 **therahuldudharejiya/therahuldudharejiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
